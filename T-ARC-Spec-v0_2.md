@@ -6,7 +6,7 @@ Author: [Таящий]
 Date: 2025-04-26  
 
 ## 1. Overview  
-T-ARC is a lightweight protocol designed for [назначение].  
+T-ARC is a lightweight protocol designed for tramsmitted information.  
 
 ## 2. Data Integrity  
 All messages use CRC-32 checksum:  
